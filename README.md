@@ -70,7 +70,7 @@ Below shows the app.post function being utilized to kick out the newly created n
 
 Links:
 
-Deployed App Link: https://git.heroku.com/your-note-taker-app.git
+Deployed App Link: https://your-note-taker-app.herokuapp.com/
 
 Heroku Repo Link: https://dashboard.heroku.com/apps/your-note-taker-app
 
