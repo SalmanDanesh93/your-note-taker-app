@@ -67,7 +67,12 @@ Below shows the app.get function being utilized to retrieve note information.
 Below shows the app.post function being utilized to kick out the newly created note.
 ![app POST](https://user-images.githubusercontent.com/107973681/191278652-480e27df-5f09-4840-bafd-03c70be514c5.png)
 
+
 Links:
+
 Deployed App Link: https://git.heroku.com/your-note-taker-app.git
+
 Heroku Repo Link: https://dashboard.heroku.com/apps/your-note-taker-app
+
 GitHub Repo Link: https://github.com/SalmanDanesh93/your-note-taker-app
+
