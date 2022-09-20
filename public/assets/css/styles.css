@@ -5,6 +5,10 @@ body {
   padding: 0;
 }
 
+.navbar {
+  background-color: rgb(92, 120, 74);
+}
+
 .save-note {
   display: none;
 }
