@@ -1,0 +1,13 @@
+[
+  2,
+  {
+    "title": "This is my First Note!",
+    "text": "Cheers to getting this working and deployed with Heroku!\n",
+    "id": 0
+  },
+  {
+    "title": "Here is a Second Note ",
+    "text": "My second note came easy! Glad this is functioning!",
+    "id": 1
+  }
+]
